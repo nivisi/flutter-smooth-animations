@@ -9,6 +9,10 @@ Study smooth flutter animations.
 - [Motion Tokens](https://m3.material.io/styles/motion/easing-and-duration/tokens-specs)
 - [Transitions](https://m3.material.io/styles/motion/transitions/transition-patterns)
 
+## iOS 
+
+- [Motion — Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/motion)
+
 # Videos
 
 ## iOS
